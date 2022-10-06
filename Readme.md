@@ -1,0 +1,1 @@
+Projeto destinado ao início dos estudos em Git.
